@@ -61,6 +61,7 @@ is a dimensionless number that quantifies the drag per unit area of a body movin
 - Wind tunnel
 - Force gauges
 - Truck model
+![Screenshot](https://github.com/Alexchiuu/Poject_Note-truck_spoilers/pic/container.png)
 - Various roof spoiler designs
 - LabView (Data acquisition system)
 - Anemometer (to measure air velocity, and temperature)
