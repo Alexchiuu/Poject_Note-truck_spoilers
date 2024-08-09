@@ -110,10 +110,9 @@ is a dimensionless number that quantifies the drag per unit area of a body movin
 4. **Data Analysis** :
 
 - Calculate the drag coefficient
-
-  $$
-  C_d
-  $$
+$$
+C_d
+$$
 
   for each spoiler design using the recorded drag forces.
 - Analyze the airflow visualization images to identify flow separation, turbulence, and vortex formation.
